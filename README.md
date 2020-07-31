@@ -1,3 +1,4 @@
 # Coding exercises for internship 2020
 
-Select the category based on your interest and send us the solution along with your resume.
+Inside the Backend folder is my Solution for the Coding problem and my resume. 
+Thank you for your consideration and I am looking forward to hear from you
